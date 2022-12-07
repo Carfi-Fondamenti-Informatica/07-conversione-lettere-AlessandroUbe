@@ -1,10 +1,10 @@
 #include <iostream>
 
 int main(){
-  char a=0;
-    cin>>a;
-    if ( convert(a)){
-        cout<<a<<endl;
+  char b=0;
+    cin>>b;
+    if ( convert(b)){
+        cout<<b<<endl;
     }else{
         cout<<"errore"<<endl;
     }
